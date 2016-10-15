@@ -1,0 +1,24 @@
+#Todo
+
+Create a Pokemon class
+Create a Water class that extends Pokemon
+Create a Fire class that extends Pokemon
+
+The base Pokemon class attributes should have:
+- name
+- type
+Functions:
+- console.log Who's that pokemon?
+
+
+The Water/Fire Pokemon class attributes should have the base Pokemon attributes and also should have:
+- strengths
+- weakness
+
+Functions:
+- console.log strengths and weakness
+
+Create one Water and Fire pokemon using these classes and call both:
+- strengths and weakness function
+- who's that pokemon function
+
